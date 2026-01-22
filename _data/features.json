@@ -1,27 +1,36 @@
 [
   {
-    "title": "Free Consultation",
-    "description": "New clients receive an obligation free consultation.",
+    "title": "Door-to-Door Service",
+    "description": "We'll pick you up and take you safely to your destination! We can provide wheelchairs as needed.",
     "image": {
-      "url": "images/features/noun_branding_1885335.svg",
+      "url": "images/features/home.svg",
+      "width": 80,
+      "height": 80
+    }
+  },
+    {
+    "title": "Wheelchair Accessible Vehicles",
+    "description": "All our vans are equipped with wheelchair lifts to make travel easy.",
+    "image": {
+      "url": "images/features/accessibility.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Certified Accountants",
-    "description": "All members of our team are certified accountants.",
+    "title": "Long-distance Trips",
+    "description": "We serve the Lubbock-area medical center, from West Texas to New Mexico.",
     "image": {
-      "url": "images/features/noun_The Process_1885341.svg",
+      "url": "images/features/road.svg",
       "width": 80,
       "height": 80
     }
   },
   {
-    "title": "Tax Compliance",
-    "description": "We stay up to date on the latest changes to the tax code.",
+    "title": "Regular Appointments",
+    "description": "Request scheduled services for recurring events",
     "image": {
-      "url": "images/features/noun_3d modeling_1885342.svg",
+      "url": "images/features/calendar.svg",
       "width": 80,
       "height": 80
     }
